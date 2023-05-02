@@ -1,0 +1,33 @@
+div {
+	text-align:center;
+	margin-bottom:20px;
+}
+div.div1 {
+	background-color:#E5E7E9;
+}
+div.div2 {
+	height:100px;
+	background-color:#76D7C4;
+	float:left;
+	width:39%;
+	margin-top:-18px;
+	margin-right:2px;
+}
+div.div3 {
+	height:100px;
+	background-color:#48C9B0;
+	float:left;
+	width:20%;
+	margin-top:-18px;
+	margin-right:2px;
+}
+div.div4 {
+	height:100px;
+	background-color:#45B39D;
+	float:left;
+	width:40.7%;
+	margin-top:-18px;
+}
+footer {
+	text-align:center;
+}
