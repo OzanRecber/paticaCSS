@@ -1,0 +1,43 @@
+#baslik {
+	text-align:center;
+	color:#990000;
+}
+
+article {
+	text-align:center;
+}
+
+ol {
+	margin:10px 400px 10px 400px;
+}
+
+div {
+	color:#330000;
+	margin:20px 200px 10px 200px;
+	background-color:#E59866;
+}
+
+h3 {
+	margin:20px 200px 10px 220px;
+	color:#ff8000;
+	background-color:white;
+}
+
+body {
+	background-image: url('https://st3.depositphotos.com/18467474/31939/i/1600/depositphotos_319395024-stock-photo-cup-of-hot-cocoa-or.jpg');
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+p {
+	margin-left:20px;
+	margin-right:20px;
+}
+
+#p-2 {
+	background-color:#E59866;
+}
+
+h2 {
+	color:#76448A 
+}
