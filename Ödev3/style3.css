@@ -1,0 +1,180 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+.about-link {
+	text-decoration: none;
+	color: #5C5858;
+	margin-left: 25px;
+}
+
+.about-link:hover {
+	text-decoration: underline;
+}
+
+.store-link {
+	text-decoration: none;
+	color: #5C5858;
+	margin-left: 15px;
+}
+
+.store-link:hover {
+	text-decoration: underline;
+}
+
+.gmail-link {
+	margin-right: 15px;
+	text-decoration: none;
+	color: #5C5858;
+}
+
+.gmail-link:hover {
+	text-decoration: underline;
+}
+
+.images-link {
+	margin-right: 15px;
+	text-decoration: none;
+	color: #5C5858;
+}
+
+.images-link:hover {
+	text-decoration: underline;
+}
+
+.advertising-link {
+	text-decoration: none;
+	margin-left: 25px;
+	margin-right: 15px;
+	color: #625D5D;
+}
+
+.advertising-link:hover {
+	text-decoration: underline;
+}
+
+.business-link {
+	text-decoration: none;
+	margin-right: 15px;
+	color: #625D5D;
+}
+
+.business-link:hover {
+	text-decoration: underline;
+}
+
+.works-link {
+	text-decoration: none;
+	margin-right: 15px;
+	color: #625D5D;
+}
+
+.works-link:hover {
+	text-decoration: underline;
+}
+
+.privacy-link {
+	margin-right: 15px;
+	text-decoration: none;
+	color: #625D5D;
+}
+
+.privacy-link:hover {
+	text-decoration: underline;
+}
+
+.terms-link {
+	margin-right: 15px;
+	text-decoration: none;
+	color: #625D5D;
+}
+
+.terms-link:hover {
+	text-decoration: underline;
+}
+
+.settings-link {
+	margin-right: 25px;
+	text-decoration: none;
+	color: #625D5D;
+}
+
+.settings-link:hover {
+	text-decoration: underline;
+}
+
+.div-top-right {
+	float: right;
+}
+
+.div-top-left {
+	margin-top: 20px;
+}
+
+footer {
+	background-color: #EAECEE ;
+	margin-top: 229px;
+	padding-top: 10px;
+	height: 30px;
+}
+
+.div-bottom-right {
+	float: right;
+}
+
+.signin-button {
+	color: white;
+	font-weight: bold;
+	background-color: #1589FF;
+	border: none;
+	margin-right: 25px;
+	width: 70px;
+	height: 30px;
+	border-radius: 5px;
+}
+
+.div-google-logo {
+	text-align: center;
+	margin-top: 125px;
+}
+
+.search-container {
+	margin: 25px auto;
+	max-width: 550px;
+}
+
+form {
+	border: 1px solid #ccc;
+	border-radius: 25px;
+	overflow: hidden;
+}
+
+input[type="text"] {
+	width: 100%;
+	padding: 15px 20px;
+	font-size: 15px;
+	border: none;
+	outline: none;
+}
+
+.google-search {
+	text-align: center;
+}
+
+#google-search {
+	color: #625D5D;
+	border: none;
+	width: 120px;
+	height: 30px;
+	border-radius: 5px;
+	margin-right: 8px;
+}
+
+#lucky {
+	color: #625D5D;
+	border: none;
+	width: 130px;
+	height: 30px;
+	border-radius: 5px;
+}
